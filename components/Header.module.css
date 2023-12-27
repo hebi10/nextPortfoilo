@@ -1,0 +1,14 @@
+.header{
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 640px;
+    width: 100%;
+}
+
+.header .slide div{
+    width: 200px;
+    background-color: aqua;
+    text-align: center;
+}
